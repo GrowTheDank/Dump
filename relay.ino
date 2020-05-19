@@ -3,7 +3,7 @@
 #include <ArduinoOTA.h>
 
 const char* ssid = "Error";
-const char* password = "vanHaasen-Bosma";
+const char* password = "";
 
 #define ota_password "Error"
 #define ota_hostname "PumpController"
